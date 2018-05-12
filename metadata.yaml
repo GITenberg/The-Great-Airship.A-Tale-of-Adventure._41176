@@ -1,0 +1,34 @@
+_repo: The-Great-Airship.A-Tale-of-Adventure._41176
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Padday, C. M. (Charles Murray)
+    alias: Padday, Charles Murray
+    birthdate: 1868
+    deathdate: 1954
+    gutenberg_agent_id: '36989'
+    url: http://www.gutenberg.org/2009/agents/36989
+covers:
+- cover_type: archival
+  image_path: 41176-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brereton, F. S. (Frederick Sadleir)
+    alias: Brereton, Frederick Sadleir
+    birthdate: 1872
+    gutenberg_agent_id: '34828'
+    url: http://www.gutenberg.org/2009/agents/34828
+description: ''
+gutenberg_issued: '2012-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Airships -- Juvenile fiction'
+title: 'The Great Airship: A Tale of Adventure.'
+url: http://www.gutenberg.org/ebooks/41176
